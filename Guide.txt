@@ -1,0 +1,8 @@
+
+1. Project Public URL
+
+     url:- https://student-crud-operation.herokuapp.com/
+
+2. Swagger UI
+
+    url:- https://student-crud-operation.herokuapp.com/swagger-ui/index.html#/
